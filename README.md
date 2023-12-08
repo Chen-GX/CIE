@@ -2,6 +2,8 @@
 
 **This repository contains the code for our research paper titled "[Causality and Independence Enhancement for Biased Node Classification](https://dl.acm.org/doi/abs/10.1145/3583780.3614804)".**
 
+> Guoxin Chen, Yongqing Wang, Fangda Guo, Qinglang Guo, Jiangli Shao, Huawei Shen, and Xueqi Cheng. 2023. Causality and Independence Enhancement for Biased Node Classification. In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM '23). Association for Computing Machinery, New York, NY, USA, 203–212. https://doi.org/10.1145/3583780.3614804
+
 # Requirements
 * Python 3.8
 * Ubuntu 22.04
