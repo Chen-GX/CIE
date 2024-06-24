@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img src="logo/logo.png" width="50%" align='center' />
+   <img src="Logo/logo.png" width="50%" align='center' />
 </p>
 
 # Causality and Independence Enhancement for Biased Node Classification (CIKM 2023)
