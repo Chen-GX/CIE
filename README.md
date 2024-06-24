@@ -1,8 +1,21 @@
+
+<p align="center">
+   <img src="logo/logo.png" width="50%" align='center' />
+</p>
+
 # Causality and Independence Enhancement for Biased Node Classification (CIKM 2023)
 
 **This repository contains the code for our research paper titled "[Causality and Independence Enhancement for Biased Node Classification](https://dl.acm.org/doi/abs/10.1145/3583780.3614804)".**
 
 > Guoxin Chen, Yongqing Wang, Fangda Guo, Qinglang Guo, Jiangli Shao, Huawei Shen, and Xueqi Cheng. 2023. Causality and Independence Enhancement for Biased Node Classification. In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (CIKM '23). Association for Computing Machinery, New York, NY, USA, 203–212. https://doi.org/10.1145/3583780.3614804
+
+## Introduction
+
+We introduce the Causality and Independence Enhancement (CIE) framework to improve out-of-distribution (OOD) generalization in graph neural networks (GNNs). Unlike existing methods that target specific data biases, our approach addresses various biases, including mixed ones, by estimating causal and spurious features at the node representation level and using backdoor adjustment to mitigate spurious correlations. The CIE framework also employs independence constraints to enhance feature discriminability and stability. Extensive experiments on five datasets show that CIE significantly boosts GNN performance and outperforms leading debiased node classification methods.
+
+<p align="center">
+   <img src="figure/Figure 1_Causal graph on Node Classification.png" width="50%" align='center' />
+
 
 # Requirements
 * Python 3.8
